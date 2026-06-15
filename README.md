@@ -24,7 +24,7 @@ const ujjawal = {
   role:      "Software Engineer",
   college:   "Arya College of Engineering & IT",
   location:  "Jaipur, Rajasthan 🇮🇳",
-  stack:     ["Next.js", "Node.js", "Express", "MongoDB"],
+  stack:     ["React.js", "Node.js", "Express", "MongoDB"],
   interests: ["Clean Architecture","Performance Optimization",
               "UI/UX", "DSA"],
   currentlyBuilding: "AI-powered web apps",
