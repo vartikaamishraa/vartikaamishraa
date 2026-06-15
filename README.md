@@ -52,5 +52,5 @@ const ujjawal = {
 ## 🎮 My Setup
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/UBX-CODE/UBX-CODE/main/githubgif.gif" width="100%" style="border-radius:12px" />
+  <img src="https://raw.githubusercontent.com/vartikaamishraa/vartikaamishraa/main/githubgif.gif" width="100%" style="border-radius:12px" />
 </div>
